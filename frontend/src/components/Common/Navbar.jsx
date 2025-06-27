@@ -30,7 +30,7 @@ const Navbar = () => {
     <nav className="container mx-auto flex items-center py-4 px-6">
       {/* Left - Logo */}
       <Link to="/" className="text-2xl font-medium">
-        Mahika
+        FLIPZON
       </Link>
 
       {/* Center - Navigation Links */}

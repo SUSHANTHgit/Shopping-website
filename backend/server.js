@@ -26,7 +26,7 @@ const PORT = process.env.PORT || 3000;
 // Connect to MongoDB
 
 app.get("/", (req, res) => {
-    res.send("Welcome to Mahika API!");
+    res.send("Welcome to FLIPZON API!");
 });
 
 
