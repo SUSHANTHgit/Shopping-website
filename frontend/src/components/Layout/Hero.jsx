@@ -23,8 +23,8 @@ const Hero = () => {
     />
 
      <div className="absolute inset-0 bg-black bg-opacity-5 flex items-center justify-center">
-    <div className="text-center text-white p-6">
-        <h1 className="text-4xl md:text-9xl font-bold tracking-tighter uppercase mb-4">
+    <div className="text-center text-yellow-600 p-6">
+        <h1 className="text-4xl md:text-9xl font-semibold tracking-tighter uppercase mb-4">
         Vacation <br /> Ready
         </h1>
         <p className="text-sm tracking-tighter md:text-lg mb-6">

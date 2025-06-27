@@ -27,7 +27,7 @@ const Navbar = () => {
 
   return (
     <>
-    <nav className="container mx-auto flex items-center py-4 px-6">
+    <nav className="container mx-auto flex items-center py-4 px-6 bg-blue-300">
       {/* Left - Logo */}
       <Link to="/" className="text-2xl font-medium">
         FLIPZON
