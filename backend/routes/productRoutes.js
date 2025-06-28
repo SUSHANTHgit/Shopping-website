@@ -237,7 +237,7 @@ router.get("/best-seller", async (req, res) => {
         if (bestSeller) {
             res.json(bestSeller);
         } else {
-            res.status(404).json({ messgae: "No Best Seller Found "});
+            res.status(404).json({ message: "No Best Seller Found "});
         }
     } catch (error) {
         console.error(error);
