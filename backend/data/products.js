@@ -1,6 +1,6 @@
 // product.js:
 
-import ClassicFromalShirt from "../../frontend/src/assets/classicshirt.webp"
+// import ClassicFromalShirt from "../../frontend/src/assets/classicshirt.webp"
 
 const products = [
   {
@@ -188,7 +188,7 @@ const products = [
     gender: "Men",
     images: [
       {
-        url: ClassicFromalShirt,
+        url: "https://picsum.photos/500/500?random=39",
         altText: "Oversized Graphic T-Shirt Front View",
       },
     ],
