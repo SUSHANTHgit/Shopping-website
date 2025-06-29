@@ -62,7 +62,7 @@ left-0 w-64 bg-white overflow-y-auto transition-transform duration-300 lg:static
 <FilterSidebar />
 </div>
 <div className="flex-grow p-4">
-    <h2 className="text-2xl uppercase mb-4">All Collectios</h2>
+    <h2 className="text-2xl uppercase mb-4">All Collections</h2>
 
     {/* Sort Oprions */}
     <SortOptions />
