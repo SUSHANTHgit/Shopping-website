@@ -100,7 +100,7 @@ const Footer = () => {
 
     <div className="container mx-auto mt-12 px-4 lg:px-0 border-t border-gray-200 pt-6">
     <p className="text-gray-500 text-sm tracking-tighter text-center">
-        {'\u00A9'}2025, Vishnu Thulasi. All rights reserved.</p>
+        {'\u00A9'}2025, Maddala Bogadi Sushanth. All rights reserved.</p>
 
 
     </div>
